@@ -1,0 +1,27 @@
+html{
+    
+    background-color:#ADBC9F;
+}
+h1, h2, h3{
+    color: #12372A;
+    font-family: Lucida Handwriting;
+}
+html{
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color: #12372A;
+}
+hr{
+    color: #FBFADA;
+}
+img{
+   
+    width: 150px;
+    height: 150px;
+    margin-top: -50px;
+    margin-bottom: -35px;
+}
+h1, h2 {
+    text-align: center;
+}
